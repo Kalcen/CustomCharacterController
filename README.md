@@ -1,5 +1,5 @@
 # CustomCharacterController
-A Unity package containing a demo scene for a custom character controller asset I made.
+A Unity package containing a demo scene for a custom character controller asset.
 
   This unity package was exported from a project using Unity version 2020.3.32f1
 I want to work on thoroughly commenting the CharacterBody and CharacterController scripts, but for now they're only lightly commented.
